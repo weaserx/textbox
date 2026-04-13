@@ -16,7 +16,7 @@ python3 textbox.py
 
 Then open `http://<your-local-ip>` from any device on the network.
 
-> Port 80 requires `sudo`. Edit `port` in `server.py` to use a different one.
+> Port 80 requires `sudo`. Edit `port` in `textbox.py` to use a different one.
 
 ## Requirements
 
